@@ -9,7 +9,7 @@ namespace CRUD
 {
     public class conexao
     {
-        private string connectionString = "Host=localhost;Username=postgres;Password=!to5ebrc;Database=empresa";
+        private string connectionString = "Host=localhost;Username=postgres;Password=123;Database=empresa";
         private NpgsqlConnection connection;
         public conexao()
         {
